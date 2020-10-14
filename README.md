@@ -7,7 +7,7 @@ It can be useful to plug an external webcam into your OT2, but this makes it har
 
 Usage:
 
-```{py}
+```py
 import OTCameras
 
 cameras = OTCameras.Cameras()
