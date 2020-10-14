@@ -1,9 +1,9 @@
 # OTCameras
-Helper class for OT2 cameras
+Helper class for using webcams with the OT2.
 
 ## Introduction
 
-It can be useful to plug an external webcam into your OT2, but this makes it hard to know which camera is which. This is a helper class that helps with these sorts of issues.
+It can be useful to plug an external webcam into your OT2, but this makes it hard to know which camera is the built-in OT camera and which is the external camera. This is a helper class that helps with these sorts of issues.
 
 Usage:
 
