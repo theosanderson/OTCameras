@@ -2,7 +2,7 @@ import glob
 import subprocess
 
 
-class OTCameras:
+class Cameras:
     def __init__(self):
         self.ot_cameras, self.other_cameras = self._get_video_devices()
 
